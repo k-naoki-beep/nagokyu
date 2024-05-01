@@ -53,6 +53,7 @@ main{
     display: flex;
     justify-content: center;
     font-family: 'Noto Sans JP';
+    background: #f8f7f6;
 }
 
 .page-1__back-ground{
@@ -143,7 +144,7 @@ main{
     display: flex;
     justify-content: center;
     font-family: 'Noto Sans JP';
-    
+    background: #f8f7f6;
 }
 
 .page-3__back-ground{
